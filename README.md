@@ -4,7 +4,7 @@
 
 I design and run AWS and Kubernetes platforms for regulated financial services, and I'm extending them to self-hosted LLM inference that is governed, observable and cost-controlled.
 
-📍 Murcia, Spain · remote · **open to freelance and consulting projects** → [LinkedIn](https://www.linkedin.com/in/josevictorsanchez/) · [jsr57v@gmail.com](mailto:jsr57v@gmail.com)
+📍 Murcia, Spain · remote · [LinkedIn](https://www.linkedin.com/in/josevictorsanchez/) · [jsr57v@gmail.com](mailto:jsr57v@gmail.com)
 
 ## How I can help
 
