@@ -36,4 +36,8 @@ AWS (EKS, ECS, CloudFront, Lambda, RDS, S3) · Terraform · Helm · Ansible · A
 
 ## Here on GitHub
 
-Most of my work lives in private company repositories. Here I publish labs, write-ups and upstream contributions; the first ones are on the way.
+Most of my work lives in private company repositories. Here I publish what I can share:
+
+- **[infra-agent-harness](https://github.com/Jvictordevops/infra-agent-harness).** A safe-by-default harness for AI coding agents that work on real infrastructure: guards that block destructive commands and keep credentials out of the conversation, a read-only mode for AWS and Kubernetes, and work that leaves a trace. It is what I use every day; its [threat model](https://github.com/Jvictordevops/infra-agent-harness/blob/main/docs/threat-model.md) says what it stops and what it does not.
+
+Labs and write-ups are on the way.
